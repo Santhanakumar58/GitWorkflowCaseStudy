@@ -1,1 +1,2 @@
 This is feature1 for Case Study
+Error Fixed
